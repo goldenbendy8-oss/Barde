@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Bamodi.aternos.me:49124",
+    "ip": "Bamodi.aternos.me",
     "port": 49124,
     "version": "",
     "try-creative": false
