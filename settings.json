@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "Bamodi.aternos.me:49124",
+    "port": 49124,
     "version": "",
     "try-creative": false
   },
